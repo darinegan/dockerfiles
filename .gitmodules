@@ -1,0 +1,3 @@
+[submodule "openstack-client"]
+	path = openstack-client
+	url = git@github.com:darinegan/openstack-client.git
